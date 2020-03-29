@@ -1,11 +1,11 @@
 # Site settings
 author: Samantha Sanford
-title: 
+title: Flatiron Software Engineering Program
 header-img: img/home-bg.png
 email: samanthawebdev@gmail.com
 copyright_name: Samantha Sanford
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Documenting my progress!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  samanthasanford
